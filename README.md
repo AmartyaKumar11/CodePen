@@ -1,8 +1,13 @@
-# React + Vite
+# CodePen Clone 📝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A CodePen-like application built with **React** and **Material UI**. Create, share, and test HTML, CSS, and JavaScript code snippets with a live preview!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features ✨
+
+- 🖥️ **React and Material UI** for building a responsive and modern user interface.
+- 🔄 **Live Preview** of HTML, CSS, and JavaScript code.
+- 🎨 **User Interface** designed with Material UI components for a polished experience.
+- 💾 **Save & Share** your code snippets with the option to export or embed them.
+- 📁 **Multi-panel layout** to display HTML, CSS, JavaScript, and the live output.
